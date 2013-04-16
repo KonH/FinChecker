@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-# TODO:
-# - Шифрование
 
 filename = 'file.txt'
 
